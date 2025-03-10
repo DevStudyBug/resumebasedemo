@@ -223,7 +223,7 @@ if 'result' not in st.session_state:
 
 # Sidebar content
 with st.sidebar:
-    st.image("https://via.placeholder.com/150x80?text=RecruitEase", width=150)
+    st.image("recuLogo.jpg", width=150)
     st.markdown("## Settings & Tips")
     
     # Settings
